@@ -1,0 +1,10 @@
+[
+  { "id": 1, "task": "Bipagem de Ruptura (Vini)", "done": false },
+  { "id": 2, "task": "Tratativa Bipagem (Gab)", "done": false },
+  { "id": 3, "task": "Bi Abastecimento (Gabi)", "done": false },
+  { "id": 4, "task": "UCs", "done": false },
+  { "id": 5, "task": "CLBS", "done": false },
+  { "id": 6, "task": "Cabeceiras", "done": false },
+  { "id": 7, "task": "Frente de Loja", "done": false },
+  { "id": 8, "task": "LOG Organizado", "done": false }
+]
